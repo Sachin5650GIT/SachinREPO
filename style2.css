@@ -1,0 +1,22 @@
+input{
+    border-radius:10px;
+    border:2px solid;
+    
+}
+.mydiv1{
+    background-color: cornsilk;
+}
+label{
+    font-size: 20px;
+}
+body{
+    background: url(/ocean-gdd744c834_1920.jpg);
+
+}
+button{
+    border: 2px;
+    background-color: palegreen;
+    border-radius:2px ;
+    border: 2px solid black;
+    
+}

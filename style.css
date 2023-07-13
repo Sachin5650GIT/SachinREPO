@@ -1,0 +1,73 @@
+
+.profile-card{
+    width: 500px;
+    padding: 20px;
+    border: 20px; color: blue;
+    margin: 10px;
+}
+img{
+    border-radius: 20px;
+}
+h1{
+    color: aquamarine;
+}
+.container{
+    border: 2px solid black; background-color: antiquewhite;
+   
+
+}
+img{
+    border-radius: 100%;
+}
+p{
+    color: black;
+}
+.container{
+    margin-left: auto;
+}
+.container3{
+    border: 2px solid ;
+    background-color: cornflowerblue;
+}
+img{
+    border-radius:10px;
+}
+.img1{
+    border-radius
+}
+img{
+    border-radius: 100%;
+}
+.personal{
+    background-color: aqua;
+}
+.mydiv2{
+    background-color:coral;
+}
+.img1:hover{
+    background-color: black;
+}
+.profile-card{
+    background-color: black;
+}
+.img1:hover{
+    color: blue;
+}
+.trip{
+    border: radius 100%; ;
+}
+img{
+    border: 5px solid white;
+}
+p{
+    color: aqua;
+}
+.mydiv2{
+    background-color: cadetblue;
+}
+input{
+    background-color:black;
+}
+textarea{
+    background-color: deepskyblue;
+}
